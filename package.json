@@ -32,8 +32,7 @@
       "last 1 safari version"
     ]
   }
-}
-{
+  
   "name": "backend",
   "version": "1.0.0",
   "description": "",
@@ -51,4 +50,6 @@
     "express": "^4.16.4",
     "mongoose": "^5.5.7"
   }
+
+
 }
